@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": 1, "name": "You", "avatar": "👤", "color": "#6366F1" },
+    { "id": 2, "name": "Alex", "avatar": "🧑", "color": "#EC4899" },
+    { "id": 3, "name": "Sam", "avatar": "👩", "color": "#10B981" },
+    { "id": 4, "name": "Jordan", "avatar": "🧔", "color": "#F59E0B" }
+  ],
+  "expenses": [],
+  "settlements": [],
+  "nextId": { "user": 5, "expense": 1, "settlement": 1 }
+}
